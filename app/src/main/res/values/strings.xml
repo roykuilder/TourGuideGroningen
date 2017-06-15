@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tour Guide Groningen</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Titel names for the pages -->
+    <string name="titel_hotel">Hotel</string>
+    <string name="titel_restaurant">Restaurant</string>
+    <string name="titel_theatre">Theatre</string>
+    <string name="titel_leisure">Leisure</string>
+
+    <string name="test_string">Deze string is om te testen of dit in het juiste format past.:///</string>
+</resources>
